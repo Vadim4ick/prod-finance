@@ -1,0 +1,41 @@
+{
+  "version": "6",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1715609730929,
+      "tag": "0000_past_meggan",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1715620975479,
+      "tag": "0001_colossal_songbird",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1715686343152,
+      "tag": "0002_nervous_kylun",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1715694661490,
+      "tag": "0003_aromatic_shinko_yamashiro",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1715770031852,
+      "tag": "0004_past_maelstrom",
+      "breakpoints": true
+    }
+  ]
+}
